@@ -1,0 +1,419 @@
+{
+    "results": [{
+        "address": "Новгородская, 18",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Новгородская, 5",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Силикатная, 1",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Силикатная, 4",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Кундо, 9",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Радикальцева, 1а",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Заовражная, б/н",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Керамическая, 4а",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Керамическая, 5",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Воронежсская, 6",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Радикальцева, 2",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Силикатная, 6",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Воронежская, 3",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "ст. Дивизионная, 1 участок, д. 9",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "ст. Дивизионная, 1 участок, д. 27. 28",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 38",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Ранжурова 1,3",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 42",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Партизанская 29а",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева 69",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева 73",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 46",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева 13",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева 15",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева 23",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Водопроводная 5",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Партизанская 21",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 59",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Банзарова 4,6",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Банзарова 5а,5б",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Банзарова 8",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Банзарова 10",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Кирова 20",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Кирова 27/3",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Куйбышева 1",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Куйбышева 3",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Куйбышева 29",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Свердлова 9",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 1,1а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 9",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 10",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Смолина 30",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Шмидта 39/2",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Советская 9",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Шмидта 32",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Свердлова 2",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Свердлова 6",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева, 1",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Борсоева, 7 Фрунзе, 17",
+        "count": 3,
+        "capacity": "0,67"
+    }, {
+        "address": "Борсоева, 9",
+        "count": 2,
+        "capacity": "0,48"
+    }, {
+        "address": "пр. Победы, 15",
+        "count": 1,
+        "capacity": "0,64"
+    }, {
+        "address": "пр. Победы, 12",
+        "count": 2,
+        "capacity": "0,7"
+    }, {
+        "address": "пр. Победы, 10",
+        "count": 3,
+        "capacity": "0,52"
+    }, {
+        "address": "пр. Победы, 7",
+        "count": 3,
+        "capacity": "0,52"
+    }, {
+        "address": "Профсоюзная, 42",
+        "count": 4,
+        "capacity": "0,7"
+    }, {
+        "address": "Профсоюзная, 33",
+        "count": 1,
+        "capacity": "0,64"
+    }, {
+        "address": "Коммунистическая, 45",
+        "count": 2,
+        "capacity": "0,57"
+    }, {
+        "address": "Коммунистическая, 44",
+        "count": 3,
+        "capacity": "0,64"
+    }, {
+        "address": "Ербанова, 28",
+        "count": 3,
+        "capacity": "0,63"
+    }, {
+        "address": "Ермаковская, 37 (мусоропровод)",
+        "count": 5,
+        "capacity": "0,43"
+    }, {
+        "address": "Воровского, 27 (мусоропровод)",
+        "count": 2,
+        "capacity": "0,78"
+    }, {
+        "address": "пер. Толстого, 2 (мусоропровод)",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Удинская, 3",
+        "count": 1,
+        "capacity": "0,8"
+    }, {
+        "address": "Ермаковская, 7",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "Ермаковская, 24",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Ермаковская, 39",
+        "count": 3,
+        "capacity": "0,84"
+    }, {
+        "address": "Ермаковская, 41",
+        "count": 3,
+        "capacity": "2,0"
+    }, {
+        "address": "Воровского, 48/1",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Удинска, 28А",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Асеева, 7",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Асеева, 8",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Фрунзе, 7",
+        "count": 5,
+        "capacity": "0,57"
+    }, {
+        "address": "Ленина, 9",
+        "count": 2,
+        "capacity": "0,6"
+    }, {
+        "address": "Ленина, 33",
+        "count": 2,
+        "capacity": "0,67"
+    }, {
+        "address": "пр. Победы, 16",
+        "count": 2,
+        "capacity": "0,64"
+    }, {
+        "address": "Куйбышева, 24",
+        "count": 2,
+        "capacity": "0,52"
+    }, {
+        "address": "Куйбышева, 28",
+        "count": 2,
+        "capacity": "0,53"
+    }, {
+        "address": "Жанаева, 1",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Серова, 1А",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Оцимика, 19",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Лазо, 97",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "Кирова, 31",
+        "count": 3,
+        "capacity": "0,7"
+    }, {
+        "address": "Куйбышева, 42",
+        "count": 2,
+        "capacity": "0,7"
+    }, {
+        "address": "Аэропорт 16,17,20,18,4,5,19,13",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Аэропорт 21,22,23",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Аэропорт  24,25,29",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Аэропорт 26,27,28",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Аэропорт 30,31,31а",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Сокол  1,2,3,4 ",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Сокол  5,6,9",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Сокол 7,8",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Кабанская 22",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Кабанская 16",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "мерецкова 20",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "автотранспортная 6",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "строителей 36",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "кабанская 2а",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "толстихина 2",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "дорожная 1а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "строителей 38а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "строителей 38",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Кабанская 13б/1",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Лощенкова, 19",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Каландаришвили 17",
+        "count": 2,
+        "capacity": "0,75"
+    }]
+}

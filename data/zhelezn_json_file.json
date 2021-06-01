@@ -1,0 +1,1083 @@
+{
+    "results": [{
+        "address": "ул. Добролюбова, д. 6",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Пушкина, д. 10",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Пушкина, д. 23",
+        "count": 4,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Хоца Намсараева, д. 4",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Хоца Намсараева, д. 6",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Хоца Намсараева, д. 30",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Рылеева, д. 5",
+        "count": 3,
+        "capacity": "2,0"
+    }, {
+        "address": "пр. 50 лет Октября, д. 21",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Чертенкова, д. 6",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Чертенкова, д. 6А",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "пр. 50 лет Октября, д. 25А",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Жуковского, д. 2",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Жуковского, д. 8",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Жуковского, д. 22",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Жуковского, д. 26",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Дзержинского, д. 191",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Пржевальского, д. 3А",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Дзержинского, д. 1А",
+        "count": 1,
+        "capacity": "0,7"
+    }, {
+        "address": "ул. 1-я Дзержинского, д. 43",
+        "count": 1,
+        "capacity": "0,7"
+    }, {
+        "address": "проезд Строительный, д. 13",
+        "count": 1,
+        "capacity": "0,7"
+    }, {
+        "address": "ул. Революции 1905 г., д. 60",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Норильская 2,4",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Норильская 6,8",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Норильская 10,14,16",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Норильская 18,20",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Норильская 22,24",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Норильская 3,12,12А",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Пр.50-лет Октября 4",
+        "count": 2,
+        "capacity": "2,75"
+    }, {
+        "address": "Пр.50-лет Октября 6",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Пр.50-лет Октября 20",
+        "count": 2,
+        "capacity": "2,75"
+    }, {
+        "address": "Пр.50-лет Октября 24",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Пр.50-лет Октября 30",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Хахалова 2",
+        "count": 2,
+        "capacity": "2,75"
+    }, {
+        "address": "Хахалова 6",
+        "count": 2,
+        "capacity": "2,75"
+    }, {
+        "address": "Гагарина 13",
+        "count": 2,
+        "capacity": "2,75"
+    }, {
+        "address": "Цивилева 5",
+        "count": 3,
+        "capacity": "2,75"
+    }, {
+        "address": "Цивилева 12",
+        "count": 2,
+        "capacity": "2,75"
+    }, {
+        "address": "Хахалова 10а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Хахалова 11-13",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Хахалова 12-14",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Хахалова 16б",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Хахалова 17",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Хахалова 25",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Цивилева 4",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Пушкина 3",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Пушкина 5",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "3 Интернационала 26а",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Коллективная 22",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Рылеева 1",
+        "count": 4,
+        "capacity": "2,75"
+    }, {
+        "address": "Ул.Чертенкова  1",
+        "count": 4,
+        "capacity": "2,75"
+    }, {
+        "address": "Ул.Цивилева 30",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Цивилева 38",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Цивилева 40",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Жуковского 14",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Проспект окт 3",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Дзержинск 193а-б",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Жуковского 30-32",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Жуковского 34",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул.Жуковского 36",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "пр-кт 50 лет Октября, 21б",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Комсомольская д.1",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Комсомольская д.1 ",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Лимонова д.8",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Лимонова д.8 а",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Октябрьская д.1а",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Жуковского д.7",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "ул.Буйко д.20а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Октябрьская д.16",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 12",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Чкалова 23",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Магистральная 5",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Столичная 4",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Родины 4",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Родины 5",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Зеленый 9",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Комарова 19",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 18,18а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Краснодонская 19",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 3а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Заиграевская 3",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Нестерова 2",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 16",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Чкалова 18",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Микояна 3",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Гастелло 10",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Гастелло 6",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Родины 11",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 20",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 9",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Герцена 7",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 20",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Столичная 1",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "ул. Цивилева, д. 50",
+        "count": 5,
+        "capacity": "3,75"
+    }, {
+        "address": "ул. Гагарина, д. 39",
+        "count": 2,
+        "capacity": "4,0"
+    }, {
+        "address": "ул. Цивилева, д. 48П",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": "ул. Жуковского, д. 10",
+        "count": 2,
+        "capacity": "1,5"
+    }, {
+        "address": "ул.Путейская,4",
+        "count": 6,
+        "capacity": "7,0"
+    }, {
+        "address": "Путейская,5",
+        "count": 4,
+        "capacity": "7,0"
+    }, {
+        "address": "Путейская,6",
+        "count": 5,
+        "capacity": "6,0"
+    }, {
+        "address": "Клыпина,10",
+        "count": 6,
+        "capacity": "7,0"
+    }, {
+        "address": "Клыпина,15",
+        "count": 5,
+        "capacity": "7,0"
+    }, {
+        "address": "Клыпина,24п",
+        "count": 5,
+        "capacity": "7,0"
+    }, {
+        "address": "Шульца,4",
+        "count": 6,
+        "capacity": "7,0"
+    }, {
+        "address": "Шульца,6",
+        "count": 5,
+        "capacity": "7,0"
+    }, {
+        "address": "Гагарина,38",
+        "count": 5,
+        "capacity": "7,0"
+    }, {
+        "address": "Пушкина,14",
+        "count": 6,
+        "capacity": "7,0"
+    }, {
+        "address": "Ю.Коммунара,10",
+        "count": 5,
+        "capacity": "7,0"
+    }, {
+        "address": "Лысогорская,87а",
+        "count": 5,
+        "capacity": "5,0"
+    }, {
+        "address": "Лысогорская,85",
+        "count": 4,
+        "capacity": "1,0"
+    }, {
+        "address": "Добролюбова,3",
+        "count": 5,
+        "capacity": "7,0"
+    }, {
+        "address": "Сенчихина,2",
+        "count": 3,
+        "capacity": "7,0"
+    }, {
+        "address": "Гагарина д.73б",
+        "count": 4,
+        "capacity": "2,0"
+    }, {
+        "address": "Гагарина д.77",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "Коллективная д.11",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": "Гагарина д.77а",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Гагарина д.79",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Гагарина д.81",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Гагарина д.83",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Гагарина д.85",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Сенчихина д.1",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Революции 1905 г. 98",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Гастелло 2А",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Гастелло 8",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Гастелло 15",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Герцена 13",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Заиграевская 35",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Комарова 16",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Магистральная 1",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Моцарта 2",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Моцарта 5",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Моцарта 14",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Нестерова 4",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Родины 5/2",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Родины 6",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Столичная 2",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Столичная 6",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Столичная 7",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 10",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 18",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Королева 8",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Камова 15",
+        "count": 8,
+        "capacity": "0,75"
+    }, {
+        "address": "Яковлева 3",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Чкалова 21",
+        "count": 8,
+        "capacity": "0,75"
+    }, {
+        "address": "Яковлева 7",
+        "count": 8,
+        "capacity": "0,75"
+    }, {
+        "address": "Яковлева 10",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 6",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 8",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 1",
+        "count": 8,
+        "capacity": "0,75"
+    }, {
+        "address": "Балдынова 9",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Балдынова 23",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Комарова 4",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 24",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Чайковского 26",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Балдынова 10",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 19",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 22",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 25",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 28",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 31",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 32",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Гарнаева 33 - 35",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Заиграевская 6",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Заиграевская 8",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Заиграевская 13",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Заиграевская 25",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Краснодонская 1 - 3",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Краснодонская 8",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Пролетарская 3",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Пролетарская 7",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Пролетарская 8а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Севастопольская 5",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Севастопольская 10а",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Севастопольская 16а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Хоринская 2",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Хоринская 8",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Гагарина д. 64",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Гагарина д. 64А",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Гагарина д. 87",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Пушкина д. 24",
+        "count": "2 евро",
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Пушкина 35",
+        "count": "2 евро",
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Революции\n1905 г. д. 102",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Ул. Революции1905 г. д. 104 Б",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Сенчихина д. 20",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Чертенкова д. 49",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Чертенкова д. 53",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Октябрьская , 21",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Буйко 26",
+        "count": 3,
+        "capacity": "3,0"
+    }, {
+        "address": "Соснова 14а",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Буйко 25а",
+        "count": 1,
+        "capacity": "3,0"
+    }, {
+        "address": "Буйко 35",
+        "count": 1,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 19",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Комсомольская 15",
+        "count": 1,
+        "capacity": "3,0"
+    }, {
+        "address": "Юннатов 3",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Юннатов 9",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Юннатов 9 а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Юннатов 2а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Юннатов,2",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Кулундинская 5",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Уссурийская, 17-19",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Астраханская 14",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Моховая 6",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Кирзавод 1",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Кирпичная 7а",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Кирпичная 2",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Тропинина 5",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Шаляпина 25",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Шаляпина 19",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Шаляпина 15а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Шаляпина 5",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Шаляпина 1а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Кирзавод 14",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Буйко 32",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Буйко 4",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Комсомольская ,35",
+        "count": 1,
+        "capacity": "3,0"
+    }, {
+        "address": "Комсомольская 42",
+        "count": 3,
+        "capacity": "3,0"
+    }, {
+        "address": "Комсомольская 8а",
+        "count": 4,
+        "capacity": "3,0"
+    }, {
+        "address": "Комсомольская 3а",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 40",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 46",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 37",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 43",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 45",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 9",
+        "count": 3,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 15",
+        "count": 3,
+        "capacity": "3,0"
+    }, {
+        "address": "Лимонова 2",
+        "count": 4,
+        "capacity": "3,0"
+    }, {
+        "address": "Лимонова 14",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Маяковского 5",
+        "count": 4,
+        "capacity": "3,0"
+    }, {
+        "address": "Пр. 50 лет Октября 34",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Пр.50 лет Октября 46",
+        "count": 4,
+        "capacity": "3,0"
+    }, {
+        "address": "Иванова 19",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Иванова 3",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Октябрьская 39-41",
+        "count": 6,
+        "capacity": "0,75"
+    }, {
+        "address": "Октябрьская 14",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Шишкина 38",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Шишкина 42",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Октябрьская 8",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 18а",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Октябрьская 20а",
+        "count": 5,
+        "capacity": "0,75"
+    }, {
+        "address": "Октябрьская 22",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Гвардейская 8",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Горная 1",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Горная 3",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Горная 5",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Горная 9",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Буйко 15",
+        "count": 2,
+        "capacity": "3,0"
+    }, {
+        "address": "Буйко 3",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Целинная 24",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Революции 1905г. 68",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Гагарина 22",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Добролюбова 35 блоки А,Б",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "Добролюбова 35",
+        "count": 1,
+        "capacity": "0,75"
+    }, {
+        "address": "Добролюбова 37, 37А, 37Б,37В.",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Октябрьская 33 2блока",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Буйко 22",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": "Гвардейская 16",
+        "count": 1,
+        "capacity": "6,5"
+    }, {
+        "address": "Революции 1905г.дом16",
+        "count": 2,
+        "capacity": "19,5"
+    }, {
+        "address": "Сосновая 14",
+        "count": 1,
+        "capacity": "22,75"
+    }, {
+        "address": "Проспект 50 лет Октября д.12",
+        "count": 1,
+        "capacity": "22,75"
+    }, {
+        "address": "Керамическая д.7",
+        "count": 1,
+        "capacity": "22,75"
+    }, {
+        "address": "Соснова 16",
+        "count": 1,
+        "capacity": "22,75"
+    }, {
+        "address": "Сосновая 16а",
+        "count": 1,
+        "capacity": "22,75"
+    }, {
+        "address": "П. Новый Зеленныйд.3",
+        "count": 2,
+        "capacity": "0,75"
+    }, {
+        "address": "П. Новый Зеленныйд.3",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": " Антонова 4",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": " Туполева 13",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "( возле ЦТП)",
+        "count": 1,
+        "capacity": "2,0"
+    }, {
+        "address": " Туполева 19а",
+        "count": 2,
+        "capacity": "2,0"
+    }, {
+        "address": " Туполева 23а",
+        "count": 3,
+        "capacity": "0,75"
+    }, {
+        "address": " Антонова 22",
+        "count": 4,
+        "capacity": "0,75"
+    }, {
+        "address": "Туполева 5",
+        "count": 1,
+        "capacity": "2,0"
+    }]
+}
